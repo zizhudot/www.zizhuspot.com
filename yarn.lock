@@ -706,10 +706,10 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-bamboo@^3.2.9:
-  version "3.2.9"
-  resolved "https://registry.npmmirror.com/hexo-theme-bamboo/-/hexo-theme-bamboo-3.2.9.tgz#c74cdc79e6d2ce9e4edcff8179ef1238e66fbddb"
-  integrity sha512-R59tHskI6wk1jmTLH89mw3+Gx2Nlf0oJ+EbfKmHt/m+BhliPXau4wbI1LoJy15T+uitrEM9bIx+G4m7VJAZ6Ng==
+hexo-theme-bamboo@^3.2.10:
+  version "3.2.10"
+  resolved "https://registry.yarnpkg.com/hexo-theme-bamboo/-/hexo-theme-bamboo-3.2.10.tgz#086943d5765feec1b0da90291a9e9c53fd900dd7"
+  integrity sha512-EPtgGBZQgmde8geo2FUAWA2buvXaTQ9RF1W89ayAAllxS3nBFbdwFvcoo9/viHABVW1FRBfqfMH0GQqTSSbFXg==
 
 hexo-theme-landscape@^1.0.0:
   version "1.0.0"
